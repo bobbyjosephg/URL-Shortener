@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace UrlShortener.Data
 {
     public sealed record ShortUrl(string? Destination, string? Path);
-    class UrlShortener
-    {
-    }
+    //internal class ShortUrl
+    //{
+    //}
 }
