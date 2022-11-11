@@ -1,0 +1,44 @@
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\appsettings.Development.json
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\appsettings.json
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\URL Forwarder.exe
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\URL Forwarder.deps.json
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\URL Forwarder.runtimeconfig.json
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\URL Forwarder.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\URL Forwarder.pdb
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\UrlShortener.Data.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\bin\Debug\net6.0\UrlShortener.Data.pdb
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\URL Forwarder.csproj.AssemblyReference.cache
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\URL Forwarder.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\URL Forwarder.AssemblyInfoInputs.cache
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\URL Forwarder.AssemblyInfo.cs
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\URL Forwarder.csproj.CoreCompileInputs.cache
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\URL Forwarder.MvcApplicationPartsAssemblyInfo.cs
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\URL Forwarder.MvcApplicationPartsAssemblyInfo.cache
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\staticwebassets.build.json
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\staticwebassets.development.json
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\scopedcss\bundle\URL Forwarder.styles.css
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\URL Forwarder.csproj.CopyComplete
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\URL Forwarder.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\refint\URL Forwarder.dll
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\URL Forwarder.pdb
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\URL Forwarder.genruntimeconfig.cache
+E:\Bobby\URL shortner\Project_UrlShortener\URLShortener\URL Forwarder\obj\Debug\net6.0\ref\URL Forwarder.dll
